@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+
+.ani-wrapper{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto;
+    gap: 3px;
+    justify-content: center;
+    padding: 30px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    opacity: 0.05;
+    cursor: pointer;
+}
+
+.appear{
+    opacity: 1;
+}
+
+
+.input-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-bar{
+    border: solid 3px rgb(88, 132, 21);
+    width: 35em;
+    margin: 50px; 
+    color: rgb(162, 157, 157);
+    background-color: black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.input-send{
+    border: solid 3px rgb(88, 132, 21);
+    border-radius: 10px;
+    background-color: black;
+    color: greenyellow;
+    cursor: pointer;
+}
+
+.output{
+    border: solid 3px rgb(88, 132, 21);
+    border-radius: 10px;
+    background-color: black;
+    color: greenyellow;
+    margin: 50px; 
+}
+
+.output2{
+    border: solid 3px rgb(88, 132, 21);
+    border-radius: 10px;
+    background-color: black;
+    color: greenyellow;
+    margin: 50px; 
+}
+
+
+
+
+
+

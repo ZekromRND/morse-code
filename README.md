@@ -33,5 +33,5 @@ The Morse Code Encoder and Decoder is an online converter that performs two func
     <li>The separator box is clicked to mark the end of a symbol or letter belonging to the same word and is essential for the proper functioning of the decoder.</li><br>
     <li>Post conversion, the converted code can be copied from the box on the right.</li><br>
   </ul>
-<img src="https://github.com/ZekromRND/morse-code/assets/72803294/f52f8653-699b-4f05-86aa-f70f7bbec19d"/>
+<center><img src="https://github.com/ZekromRND/morse-code/assets/72803294/f52f8653-699b-4f05-86aa-f70f7bbec19d"/></center>
 
